@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harendra84](https://github.com/Harendra84)
 
-- 💬 Ask me about **Core Java, HTML,CSS,JAVASCRIPT,JQUERY,BOOTSTRAP**
+- 💬 Ask me about **C, Java, HTML,CSS,JAVASCRIPT,JQUERY, REACT JS, BOOTSTRAP, SQL, MYSQL, MONGODB, SPRING BOOT, HIBERNATE, ANGULAR**
 
 - 📫 How to reach me **190101120080@cutm.ac.in**
 
