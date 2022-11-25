@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Grievance Complain**
 
-- 🌱 I’m currently learning **Spring Boot, Microservices and Cloud**
+- 🌱 I’m currently learning **Microservices and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harendra84](https://github.com/Harendra84)
 
